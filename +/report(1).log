@@ -1,0 +1,480 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.4)  4 MAY 2024 18:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/mimou/Downloads/RABI ISAHEL/+/report(1).tex"
+(c:/Users/mimou/Downloads/RABI ISAHEL/+/report(1).tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+(C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen143
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen144
+\subfiglabelskip=\skip53
+\c@subfigure=\count197
+\c@lofdepth=\count198
+\c@subtable=\count199
+\c@lotdepth=\count266
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (cappar.sty
+\capbox=\box51
+\capl=\count267
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/04/20 v24.4 The Babel package
+\babel@savecnt=\count268
+\U@D=\dimen145
+\l@unhyphenated=\language79
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count269
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
+Language: french 2024-02-29 v3.5s French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@stdchar=\count270
+Package babel Info: Making : an active character on input line 420.
+Package babel Info: Making ; an active character on input line 421.
+Package babel Info: Making ! an active character on input line 422.
+Package babel Info: Making ? an active character on input line 423.
+\FBguill@level=\count271
+\FBold@everypar=\toks19
+\FB@Mht=\dimen146
+\mc@charclass=\count272
+\mc@charfam=\count273
+\mc@charslot=\count274
+\std@mcc=\count275
+\dec@mcc=\count276
+\FB@parskip=\dimen147
+\listindentFB=\dimen148
+\descindentFB=\dimen149
+\labelindentFB=\dimen150
+\labelwidthFB=\dimen151
+\leftmarginFB=\dimen152
+\parindentFFN=\dimen153
+\FBfnindent=\dimen154
+)) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
+Package: minitoc 2018/07/12 v62 Package minitoc
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write3
+\mtcindent=\skip56
+\mtcskipamount=\skip57
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks20
+\mtc@strutbox=\box52
+\mtc@hstrutbox=\box53
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout3 = `report(1).mtc0'.
+
+\openout3 = `report(1).mtc'.
+
+ (report(1).mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout3 = `report(1).mtc'.
+
+\openout3 = `report(1).mtc0'.
+
+\c@mtc=\count277
+\c@minitocdepth=\count278
+\c@ptc=\count279
+\c@parttocdepth=\count280
+\ptcindent=\skip58
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+)) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
+File: lettrine.sty 2024-01-20 v2.60 (Daniel Flipo)
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-03-14 L3 programming layer (loader) 
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box54
+))
+Package: xfp 2024-03-14 L3 Floating point unit
+)
+\c@DefaultLines=\count282
+\c@DefaultDepth=\count283
+\DefaultFindent=\dimen155
+\DefaultNindent=\dimen156
+\DefaultSlope=\dimen157
+\DiscardVskip=\dimen158
+\L@lettrine=\box55
+\L@lbox=\box56
+\L@tbox=\box57
+\c@L@lines=\count284
+\c@L@depth=\count285
+\L@Pindent=\dimen159
+\L@Findent=\dimen160
+\L@Nindent=\dimen161
+\L@lraise=\dimen162
+\L@first=\dimen163
+\L@next=\dimen164
+\L@slope=\dimen165
+\L@height=\dimen166
+\L@novskip=\dimen167
+\L@ruleht=\dimen168
+\L@target@ht=\dimen169
+\L@target@dp=\dimen170
+\L@target@tht=\dimen171
+\LettrineWidth=\dimen172
+\LettrineHeight=\dimen173
+\LettrineDepth=\dimen174
+
+Loading lettrine.cfg
+(C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg)
+\Llist@everypar=\toks21
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks22
+\float@box=\box58
+\@float@everytoks=\toks23
+\@floatcapt=\box59
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box60
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen175
+\ttl@minus=\dimen176
+\ttl@toksa=\toks26
+\titlewidth=\dimen177
+\titlewidthlast=\dimen178
+\titlewidthfirst=\dimen179
+) (fancyhdr.sty
+\fancy@headwidth=\skip61
+\f@ncyO@elh=\skip62
+\f@ncyO@erh=\skip63
+\f@ncyO@olh=\skip64
+\f@ncyO@orh=\skip65
+\f@ncyO@elf=\skip66
+\f@ncyO@erf=\skip67
+\f@ncyO@olf=\skip68
+\f@ncyO@orf=\skip69
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccrules.sty
+Package: nccrules 2005/05/13 v1.0 More rules (NCC)
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\mboxfill.sty
+Package: mboxfill 2005/05/13 v1.0 Fill space with mbox (NCC)
+)
+LaTeX Info: Redefining \dashrule on input line 30.
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read3
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip70
+\multirow@cntb=\count287
+\multirow@dima=\skip71
+\bigstrutjot=\dimen180
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip72
+\LTright=\skip73
+\LTpre=\skip74
+\LTpost=\skip75
+\LTchunksize=\count288
+\LTcapwidth=\dimen181
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count289
+\LT@rows=\count290
+\c@LT@tables=\count291
+\c@LT@chunks=\count292
+\LT@p@ftn=\toks29
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip76
+\enit@outerparindent=\dimen182
+\enit@toks=\toks30
+\enit@inbox=\box66
+\enit@count@id=\count293
+\enitdp@description=\count294
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 64.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+) (report(1).aux)
+\openout1 = `report(1).aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count295
+\scratchdimen=\dimen183
+\scratchbox=\box67
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen184
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks32
+) (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\mimou\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \degres on input line 64.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 64.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 64.
+LaTeX Info: Redefining \up on input line 64.
+\c@minilofdepth=\count301
+\c@minilotdepth=\count302
+\c@partlofdepth=\count303
+\c@partlotdepth=\count304
+\c@sectlofdepth=\count305
+\c@sectlotdepth=\count306
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+
+
+Package minitoc(hints) Warning: W0099
+(minitoc(hints))                --- The titlesec package is loaded. 
+(minitoc(hints))                It is incompatible 
+(minitoc(hints))                with the minitoc package.
+
+(1.PageDeGarde.tex
+<chap1.images/logoessect.jpg, id=1, 501.875pt x 258.9675pt>
+File: chap1.images/logoessect.jpg Graphic file (type jpg)
+<use chap1.images/logoessect.jpg>
+Package pdftex.def Info: chap1.images/logoessect.jpg  used on input line 21.
+(pdftex.def)             Requested size: 182.09485pt x 93.9632pt.
+<chap1.images/digidlogo.png, id=2, 177.66376pt x 100.87688pt>
+File: chap1.images/digidlogo.png Graphic file (type png)
+<use chap1.images/digidlogo.png>
+Package pdftex.def Info: chap1.images/digidlogo.png  used on input line 53.
+(pdftex.def)             Requested size: 86.49748pt x 49.11455pt.
+ [1
+
+{C:/Users/mimou/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/mimou/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./chap1.images/logoessect.jpg> <./chap1.images/digidlogo.png>] [2]) (2.Dedicace.tex) (3.Remerciement.tex)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 88.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1] [2] (report(1).toc)
+\tf@toc=\write4
+\openout4 = `report(1).toc'.
+
+ [3
+
+] (report(1).lof)
+\tf@lof=\write5
+\openout5 = `report(1).lof'.
+
+ [4
+
+] (report(1).lot)
+\tf@lot=\write6
+\openout6 = `report(1).lot'.
+
+ [5
+
+] (4.Introduction générale.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+) (biblio.tex) (report(1).bbl [1
+
+]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+)
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the report(1).maf file.
+\openout3 = `report(1).maf'.
+
+Package minitoc(hints) Info: I0053
+(minitoc(hints))             You have loaded the float package; 
+(minitoc(hints))             please be aware that the minitoc package 
+(minitoc(hints))             facilities can not be used for new types 
+(minitoc(hints))             of floats defined by the float package.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the report(1).log file.
+
+[2
+
+] (report(1).aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 7742 strings out of 474424
+ 128782 string characters out of 5741740
+ 1930496 words of memory out of 5000000
+ 29951 multiletter control sequences out of 15000+600000
+ 568625 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,11n,93p,640b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/mimou/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/mimou/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on report(1).pdf (9 pages, 67019 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
